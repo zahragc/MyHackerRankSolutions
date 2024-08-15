@@ -1,5 +1,5 @@
-# My Hacker Rank Solutions
-my profile: https://www.hackerrank.com/profile/ZahraG
+# My HackerRank Solutions
+My HackerRank profile: https://www.hackerrank.com/profile/ZahraG
 
 | No. | Problem                      | Difficulty  | Max Score  | Language | Solution Score | Solution |
 | -- | ---------------------------- |:-------------:| :---------:|:-----------------:| :-------------:|-----------|
